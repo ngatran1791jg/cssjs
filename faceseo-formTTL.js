@@ -139,7 +139,7 @@ jQuery("#myModalthanh").html(formdiv);
 function thanhxet(){
 
 if(submittedform) {
-	window.location="https://thantailand/";
+	window.location="https://thantailand.com.vn/";
 var linkhientai=window.location;
 if(getCookie(linkhientai)){
                 	
