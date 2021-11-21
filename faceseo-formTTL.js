@@ -113,10 +113,10 @@ jQuery( "body" ).append(divpopup);
 var titleform='Đăng ký Form';
 var urlform="https://docs.google.com/forms/u/0/d/e/1FAIpQLSfoFbJB7FN7pLeKxn2xn2AuAHhG9c8pRNZaaJvcoB1QBcxP5g/formResponse";
 var urlchuyen=window.location.href;
-var hovaten="905013348";
-var dienthoai="6530340889";
-var email="1843629668";
-var duan="412385924";
+var hovaten="1174000567";
+var dienthoai="2052317272";
+var email="381947910";
+var duan="1512737187";
 var submittitle='Đăng ký tư vấn';
 var submittedform=false;
 var titleheader="ĐĂNG KÝ TƯ VẤN NHẬN ƯU ĐÃI";
@@ -139,7 +139,7 @@ jQuery("#myModalthanh").html(formdiv);
 function thanhxet(){
 
 if(submittedform) {
-	window.location="https://thantailand.com.vn/";
+	window.location="https://thantailand.com/";
 var linkhientai=window.location;
 if(getCookie(linkhientai)){
                 	
