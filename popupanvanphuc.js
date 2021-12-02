@@ -1,5 +1,5 @@
 
-	var url_popup = 'https://vanphuccity-tpthuduc.com;
+	var url_popup = 'https://vanphuccity-tpthuduc.com';
 
       //<![CDATA[
 	  // var url_ppp = 'https://vanphuccity-tpthuduc.com';
