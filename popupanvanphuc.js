@@ -2,7 +2,7 @@
 	var url_popup = 'https://vanphuccity-tpthuduc.com';
 
       //<![CDATA[
-	  // var url_ppp = 'https://vanphuccity-tpthuduc.com';
+	  // var url_ppp = 'http://vanphuccity-tpthuduc.com';
       function addEvent(obj, eventName, func){
         if (obj.attachEvent)
         {
